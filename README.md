@@ -1,4 +1,4 @@
-# Javascript-interview-Questions
+# Javascript-interview-Concepts
 
 ### Table of Contents
 
